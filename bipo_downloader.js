@@ -2,7 +2,7 @@
  * BIPO HRMS Bulk Payslip Downloader
  * Description: Automates the multi-year extraction of payslips from the BIPO Cloud Portal 
  *              by natively manipulating DevExpress Client-Side Control Layout instances.
- * Author: AI Assistant
+ * Author: Office Assistant
  * License: MIT
  */
 
